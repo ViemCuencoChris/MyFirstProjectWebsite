@@ -10,7 +10,7 @@ This project focuses on clean design, smooth layout, and mobile responsiveness.
 - 📱 Fully responsive design (mobile, tablet, desktop)
 - 🎨 Clean and modern UI
 - ⚡ Fast and lightweight (static website)
-- 🧩 Organized layout using Flexbox/Grid
+- 🧩 Organized layout using Flexbox
 - 🖱️ Smooth user experience
 
 ---
